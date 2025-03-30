@@ -1,24 +1,4 @@
-# hair
+Pagina Fashion Hair :haircut: :nail_care:
+***
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto feito com a intenção de fornecer uma maneira rapida de achar dicas para melhorar o cuidado capilar.
